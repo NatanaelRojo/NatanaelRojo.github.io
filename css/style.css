@@ -119,8 +119,8 @@ main {
 }
 
 .main-exchange-container .background-img {
-  width: 360px;
-  height: 360px;
+  width: 300px;
+  height: 300px;
   margin: 0 auto;
   margin-bottom: 30px;
   background-image: url("../assets/img/Bitcoin.svg");
